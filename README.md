@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @codenamelonghorn
+- 👋 Hey all, @codenamelonghorn here
 - 👀 I’m interested in getting around to actually learning to code
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ... nothing
 - 📫 How to reach me: soon.
 
 <!---
