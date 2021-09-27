@@ -1,5 +1,5 @@
 - 👋 Hey all, @codenamelonghorn here
-- 👀 I’m interested in getting around to actually learning to code
+- 👀 I’m interested in old software... I guess
 - 📫 How to reach me: You don't. Thanks.
 
 <!---
