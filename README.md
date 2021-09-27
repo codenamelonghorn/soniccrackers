@@ -1,7 +1,6 @@
 - 👋 Hey all, @codenamelonghorn here
 - 👀 I’m interested in getting around to actually learning to code
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: soon.
+- 📫 How to reach me: You don't. Thanks.
 
 <!---
 soniccrackers/soniccrackers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
