@@ -1,6 +1,6 @@
-- 👋 Hey all, @codenamelonghorn here
-- 👀 I’m interested in old software... I guess
-- 📫 How to reach me: You don't. Thanks.
+- 👋 Hi.
+- 👀 I’m interested in old software.
+- 📫 How to reach me: You don't. You can't. Thank you.
 
 <!---
 soniccrackers/soniccrackers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
